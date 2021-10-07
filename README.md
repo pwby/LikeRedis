@@ -37,4 +37,6 @@
 
 当启动服务器时，先从文件中加载信息到database中
 
+
 使用ObjectInputStream和ObjectOutputStream都是在try的方括号里面写的，因为在处理完之后，可以自动释放资源。不用手动关闭。
+1.test-git-config
